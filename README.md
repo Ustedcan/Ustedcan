@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ustedcan
-- 👀 I’m interested in Data Science, Computer Science and Bussines.
+- 👀 I’m interested in Data Science, Computer Science and Business.
 - 🌱 I’m currently learning about Computer Science fundamentals.
 - 💞️ I’m looking to collaborate on data science and artificial intelligence projects
 - 📫 How to reach me?. You can find me on LinkedIn as Carlos Andrés Lincango
