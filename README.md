@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate Data Science and Artificial Intelligence projects
 - 📫 How to reach me?. You can find me on LinkedIn as Carlos Andrés Lincango
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: Once I played the trombon in an Orchestra.
+- ⚡ Fun fact: Once I played the trombon in an Orchestra.[Ir a YouTube](https://www.youtube.com/watch?v=jw0Ja6U1H2A&ab_channel=CarlosAndr%C3%A9s)
 
 <!---
 Ustedcan/Ustedcan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
