@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Ustedcan
-- ```html
-  
-  ````
 - 👀 I’m interested in Data Science, Computer Science and Business.
 - 🌱 I’m currently learning about Computer Science fundamentals.
 - 💞️ I’m looking to collaborate Data Science and Artificial Intelligence projects
