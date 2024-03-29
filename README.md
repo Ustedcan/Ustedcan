@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Computer Science and Business.
 - 🌱 I’m currently learning about Computer Science fundamentals.
 - 💞️ I’m looking to collaborate Data Science and Artificial Intelligence projects
-- 📫 How to reach me?. You can find me on LinkedIn as ![Carlos Andrés Lincango](kedin.com/in/carlos-andrés-lincango-2b5a60132/)
+- 📫 How to reach me?. You can find me on LinkedIn as [Carlos Andrés Lincango](kedin.com/in/carlos-andrés-lincango-2b5a60132/)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Once I played the trombone in an Orchestra. [Here](https://www.youtube.com/watch?v=jw0Ja6U1H2A&ab_channel=CarlosAndr%C3%A9s)
   
