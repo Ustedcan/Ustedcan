@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Once I played the trombone in an Orchestra. [Here](https://www.youtube.com/watch?v=jw0Ja6U1H2A&ab_channel=CarlosAndr%C3%A9s)
 
 - 🤓 In 2024 my team won a Hackhathon
--![Hackathon](https://photos.app.goo.gl/zDayeU2yXabbBbSP7<!---)
+![ Hackathon](https://photos.app.goo.gl/zDayeU2yXabbBbSP7)
 
 Ustedcan/Ustedcan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
