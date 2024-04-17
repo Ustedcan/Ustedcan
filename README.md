@@ -14,7 +14,7 @@
 
 🤓 In 2024 my team won the RIIAA's Hackhathon. 
 
-![image](https://github.com/Ustedcan/Ustedcan/assets/143976217/6ed76bdb-5daf-4069-b8e3-eacf3d5128a0)
+![image](https://drive.google.com/file/d/1fyHmTkRKufyAh3iMTDqTGiRcAbYCN9Hz/view?usp=sharing)
 
 
 <!---
