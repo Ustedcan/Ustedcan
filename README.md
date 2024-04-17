@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate in Data Science and Artificial Intelligence projects
 
-📫 How to reach me? You can find me on LinkedIn as Carlos Andrés Lincango
+📫 How to reach me? You can find me on LinkedIn as [Carlos Andrés Lincango](https://www.linkedin.com/in/carlos-andr%C3%A9s-lincango-2b5a60132/)
 
 😄 Pronouns: he/his
 
