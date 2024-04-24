@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carlos andrés lincango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos andrés lincango" height="30" width="40" /></a>
-<a href="https://kaggle.com/ustedcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ustedcan" height="30" width="40" /></a>
-<a href="https://instagram.com/carlosandres_425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlosandres_425" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-andr%c3%a9s-lincango-2b5a60132/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-andr%c3%a9s-lincango-2b5a60132/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/ustedcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ustedcan" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/carlosandres_425/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/carlosandres_425/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
