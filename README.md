@@ -1,20 +1,31 @@
-👋 Hi, I’m @Ustedcan
+<h1 align="center">Hi 👋, I'm Carlos Lincango</h1>
+<h3 align="center">👀 I’m interested in Data Science, Artificial Intelligence and Business.</h3>
 
-👀 I’m interested in Data Science, Computer Science and Business.
+- 🔭 I’m currently working on my project **Development of a classification model for anomaly detection in credit card transactions leveraging deep learning techniques within the MLOps framework.**
 
-🌱 I’m currently learning about Computer Science fundamentals.
+- 🌱 I’m currently learning about **Computer Science fundamentals.**
 
-💞️ I’m looking to collaborate in Data Science and Artificial Intelligence projects
+- 👯 I’m looking to collaborate in **Data Science and Artificial Intelligence projects.**
 
-📫 How to reach me? You can find me on LinkedIn as [Carlos Andrés Lincango](https://www.linkedin.com/in/carlos-andr%C3%A9s-lincango-2b5a60132/)
+- 👨‍💻 All of my projects are available at [https://github.com/Ustedcan](https://github.com/Ustedcan)
 
-😄 Pronouns: he/his
+- 💬 Ask me about **RIIAA´s Hackathon.**
 
-⚡ Fun fact: Once I played the trombone in an Orchestra. [Here](https://www.youtube.com/watch?v=jw0Ja6U1H2A&ab_channel=CarlosAndr%C3%A9s)
+- 📫 How to reach me **clincango_425@hotmail.com**
 
-🤓 In 2024 my team won the RIIAA's Hackhathon. 
+- ⚡ Fun fact **Once I played the trombone in an Orchestra.**
 
-![image](https://lh3.googleusercontent.com/pw/AP1GczO4a8o4A5Eh-6pzr2dfKS8sxkLuwwKFQnNDLC65i_oQjeUH1gswjPYMiF_Xop6GozQIbvh4SMXB5fpL-5XeFLdMcuqNGxdYLoYDISx8oo0v3SP1s3b_kFFbyxaHVUhGcOlxEDP4ZJ11VVyirUJQAf7jjNUJIZC-6RO6xloZspkU2_AJdAgVrBiFdYlPez8vEP5j9zy-Uc0yWUB4vdAr9-ReVIN12s8ZP164D23BqKJu2xSBJwZ9KEWRmK9MQg8yX-RcrcKOamsTAnvngEX4njkHKhHMwBn0B2v87fXSiChxgy4gNbOCebPVlO24VPWEPof-eyMC1Dw7GNeJU7DSymr3ERBmhMd7ZxMRa3bFI9QS_DQDiXpPV2hiqi0CtIS6Pa_3l2tl0II9OD0WoNMGogbGKi37KZm_LcwqnZ1S0Moawittd09PP-cjQtrKVVlbD7iWQ53Tjz92qDyZfUif06K_p7SxnEMKzrYbdqTvvu7oPExAmpVRrLD9qtrjIyDBsUZG7Wd0sySpL6Xr8rg8_jJms0EgWeZCRhmXTOpx2iln-_Ghz6IEsoObCZ5pbkVvjplzxe6zA9s9wTHNy4YhSAY0NxfQNzQMowG-KoMjRWfxRsxvtjhJhUBQP_0-8Y_HZIP4BoPKve1c5noryDK_iaMMdJt2NcHk_9-5caY2JnEXE8XipYrynnaDEZxYHn1wJ-FvOsDaqjjnigfh4P5l0o696eKkgoTXAH8llkaT5JZAtL6AzDK-v88jqKyfXR-jf4R6pV43VagX4Bh0RYVpAjbQdtjiW_VyMf6SfizHVTHajRxwoMp8pwXdThYY5uxinXFCJSMPvGRdl9HrY9gkOoa48D2U_SnEnCkrbb9-qWOFnd59CpSDtXu0fRHovCu9Pj6bU9kFIaPc72cp8yEEatcZhQ=w806-h607-s-no-gm?authuser=0)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/carlos andrés lincango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos andrés lincango" height="30" width="40" /></a>
+<a href="https://kaggle.com/ustedcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ustedcan" height="30" width="40" /></a>
+<a href="https://instagram.com/carlosandres_425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlosandres_425" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ustedcan&show_icons=true&locale=en&layout=compact" alt="ustedcan" /></p>
 
 
 <!---
