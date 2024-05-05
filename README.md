@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Lincango</h1>
 <h3 align="center">👀 I’m interested in Data Science, Artificial Intelligence and Business.</h3>
 
-- 🔭 I’m currently working on my project **Development of a classification model for detecting anomalies in credit card transactions using deep learning techniques and the MLOps methodology.**
+- 🔭 I’m currently working on my project **Development of a classification model for detecting anomalies in credit card transactions using deep learning techniques and MLOps.**
 
 - 🌱 I’m currently learning about **Computer Science fundamentals.**
 
