@@ -46,7 +46,6 @@ Developing a sophisticated classification model for detecting anomalies in credi
 
 ### 🏆 Achievements
 - Participated in RIIAA's Hackathon
-- [Add any other achievements or certifications]
 
 ### 📫 Connect with me
 <p align="left">
