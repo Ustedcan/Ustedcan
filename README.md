@@ -11,8 +11,8 @@
 ### 🚀 Current Project
 Developing a sophisticated classification model for detecting anomalies in credit card transactions, implementing:
 - Deep Learning techniques
+- CRISP DM Methodology
 - MLOps practices
-- Real-time transaction monitoring
 - Scalable architecture
 
 ### 🛠️ Tech Stack
@@ -37,10 +37,10 @@ Developing a sophisticated classification model for detecting anomalies in credi
 </div>
 
 ### 📊 Data Science & ML Tools
-- **Languages**: Python, R
-- **ML/DL Frameworks**: TensorFlow, PyTorch
+- **Languages**: Python, R, C
+- **ML/DL Frameworks**: TensorFlow, Scikt-Learn
 - **Data Processing**: Pandas, NumPy
-- **Databases**: PostgreSQL, MongoDB
+- **Databases**: PostgreSQL, Sqlite3, MongoDB
 - **Development**: Git, Linux
 - **Visualization**: Matplotlib, Seaborn
 
