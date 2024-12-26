@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Lincango</h1>
-<h3 align="center">👀 A passionate Data Scientist and AI enthusiast</h3>
+<h3 align="center">👀 A passionate Data Scientist, AI and Machine Learning enthusiast</h3>
 
 ### About Me
 - 🔭 Currently working on: **Credit Card Fraud Detection using Deep Learning & MLOps**
