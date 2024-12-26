@@ -38,7 +38,7 @@ Developing a sophisticated classification model for detecting anomalies in credi
 
 ### 📊 Data Science & ML Tools
 - **Languages**: Python, R, C
-- **ML/DL Frameworks**: TensorFlow, Scikt-Learn
+- **ML/DL Frameworks**: TensorFlow, Scikit-Learn
 - **Data Processing**: Pandas, NumPy
 - **Databases**: PostgreSQL, Sqlite3, MongoDB
 - **Development**: Git, Linux
