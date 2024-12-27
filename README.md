@@ -1,61 +1,65 @@
-<h1 align="center">Hi 👋, I'm Carlos Lincango</h1>
-<h3 align="center">👀 A passionate Data Scientist, AI and Machine Learning enthusiast</h3>
+# Carlos Lincango ✨
 
-### About Me
-- 🔭 Currently working on: **Credit Card Fraud Detection using Deep Learning & MLOps**
-- 🌱 Learning: **Computer Science Fundamentals**
-- 👯 Looking to collaborate on: **Data Science and AI Projects**
-- 🎯 Focused on: **Machine Learning, Deep Learning, and MLOps**
-- 🎭 Fun fact: **Former trombone player in an Orchestra**
+<div align="center">
+  
+### Data Scientist | AI Enthusiast | Machine Learning Engineer
 
-### 🚀 Current Project
-Developing a sophisticated classification model for detecting anomalies in credit card transactions, implementing:
-- Deep Learning techniques
-- CRISP DM Methodology
-- MLOps practices
-- Scalable architecture
+[![Email](https://img.shields.io/badge/Email-clincango__425%40hotmail.com-blue?style=flat-square&logo=microsoft-outlook)](mailto:clincango_425@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-black?style=flat-square&logo=github)](https://github.com/Usted)
 
-### 🛠️ Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </div>
 
-### 📊 Data Science & ML Tools
-- **Languages**: Python, R, C
-- **ML/DL Frameworks**: TensorFlow, Scikit-Learn
-- **Data Processing**: Pandas, NumPy
-- **Databases**: PostgreSQL, Sqlite3, MongoDB
-- **Development**: Git, Linux
-- **Visualization**: Matplotlib, Seaborn
+## 🎯 About Me
 
-### 🏆 Achievements
-- Participated in RIIAA's Hackathon
+I'm a passionate Data Scientist focusing on the intersection of AI and practical applications. With a background in music (former orchestra trombonist! 🎭), I bring both technical precision and creative thinking to my work.
 
-### 📫 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/carlos-andr%c3%a9s-lincango-2b5a60132/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-andrés-lincango" height="30" width="40" /></a>
-</p>
+### 🔍 Current Focus
 
-📧 Email: clincango_425@hotmail.com
-💼 Portfolio: [https://github.com/Ustedcan](https://github.com/Ustedcan)
+- 🔭 Working on **Credit Card Fraud Detection** using Deep Learning & MLOps
+- 🌱 Deepening my knowledge in **Computer Science Fundamentals**
+- 👥 Open to collaborate on innovative **Data Science and AI Projects**
 
-<!---
-Ustedcan/Ustedcan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Featured Project: Fraud Detection System
+
+Currently developing an advanced fraud detection system that incorporates:
+
+- 🧠 State-of-the-art Deep Learning architectures
+- 📊 CRISP-DM methodology implementation
+- ⚙️ MLOps best practices for deployment
+- 🔄 Scalable and maintainable architecture
+
+## 🛠️ Technical Arsenal
+
+### Core Technologies
+```
+📊 Python | R | C
+🤖 TensorFlow | Scikit-Learn
+🔧 Pandas | NumPy
+📈 Matplotlib | Seaborn
+```
+
+### Infrastructure & Tools
+```
+💾 PostgreSQL | MongoDB | SQLite
+🔄 Git | Linux
+☁️ Cloud Platforms
+```
+
+## 🏆 Achievements & Recognition
+
+- 🎯 Participated in RIIAA's Hackathon
+- [Additional achievements can be listed here]
+
+## 📫 Let's Connect!
+
+I'm always interested in connecting with fellow data enthusiasts and potential collaborators. Feel free to reach out through:
+
+- 📧 [Email](mailto:clincango_425@hotmail.com)
+- 💼 [GitHub Portfolio](https://github.com/Usted)
+
+---
+<div align="center">
+  
+*"Data is the new oil, but like oil, it's only valuable when refined."*
+
+</div>
