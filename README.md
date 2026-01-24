@@ -1,62 +1,76 @@
-<h1 align="center">Hi 👋, I'm Carlos Lincango</h1>
-<h3 align="center">👀 A passionate Data Scientist, AI and Machine Learning enthusiast</h3>
+# Carlos Andrés Lincango
 
-### About Me
-- 🔭 Currently working on: **Credit Card Fraud Detection using Deep Learning & MLOps**
-- 🌱 Learning: **Computer Science Fundamentals**
-- 👯 Looking to collaborate on: **Data Science and AI Projects**
-- 🎯 Focused on: **Machine Learning, Deep Learning, and MLOps**
-- 🎭 Fun fact: **Former trombone player in an Orchestra**
+## Data Scientist | Machine Learning Specialist
 
-### 🚀 Current Project
-Developing a sophisticated classification model for detecting anomalies in credit card transactions, implementing:
-- Deep Learning techniques
-- CRISP DM Methodology
-- MLOps practices
-- Real-time transaction monitoring
-- Scalable architecture
+---
 
-### 🛠️ Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-</div>
+📧 clincango_425@hotmail.com | 📱 +593 9929 00353 | 👨‍💻 [GitHub](https://github.com/Ustedcan) | 👔 [LinkedIn](https://linkedin.com/in/calincango) | 🆔 [ORCID](https://orcid.org/0009-0007-3929-9854)
 
-### 📊 Data Science & ML Tools
-- **Languages**: Python, R, C
-- **ML/DL Frameworks**: TensorFlow, Scikit-Learn
-- **Data Processing**: Pandas, NumPy
-- **Databases**: PostgreSQL, MongoDB
-- **Development**: Git, Linux
-- **Visualization**: Matplotlib, Seaborn
+---
 
-### 🏆 Achievements
-- Participated in RIIAA's Hackathon
+## Professional Profile
 
-### 📫 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/carlos-andr%c3%a9s-lincango-2b5a60132/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-andrés-lincango" height="30" width="40" /></a>
-</p>
+Data Scientist specializing in Machine Learning and fraud detection with proven results: 85.71% reduction in credit card fraud and 98.32% compliance in critical KPIs within the financial sector. Expert in Computer Vision and Deep Learning with an IEEE publication on automated classification using Transfer Learning. Proficient in Python, R, SQL, and frameworks such as PyTorch and Scikit-learn for the development and deployment of predictive models. Holder of Master’s degrees in Artificial Intelligence and Data Science.
 
-📧 Email: clincango_425@hotmail.com
-💼 Portfolio: [https://github.com/Ustedcan](https://github.com/Ustedcan)
+---
 
-<!---
-Ustedcan/Ustedcan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+
+### Machine Learning & DL
+- Transfer Learning
+- ResNet-18
+- Convolutional Architectures
+- Vision Transformers (ViT)
+- Anomaly Detection
+
+### Data Science & Stats
+- Statistical Analysis
+- Hypothesis Testing (Mann-Whitney U)
+- Stratified Cross-Validation
+
+### Engineering & Software
+- Python
+- PyTorch
+- Scikit-learn
+- R
+- SQL
+- Git
+- Docker
+- Computer Vision Pipelines
+
+---
+
+## Professional Experience
+
+### INTERDIN S.A. - Fraud Analyst
+- Reduced card fraud by 85.71% through statistical analysis and the implementation of new monitoring controls and rules.
+- Achieved 98.32% compliance in fraud detection and monitoring indicators.
+  
+### UNIVERSIDAD SAN FRANCISCO DE QUITO (USFQ) - Machine Learning / Computer Vision Researcher
+- First-Author IEEE Publication on automated classification using Transfer Learning and Shallow Learning techniques.
+- Led the development of a high-precision system for image recognition.
+- Designed and deployed advanced preprocessing pipelines for computer vision tasks.
+
+---
+
+## Publications
+
+- [Automatic Culicoides Biting Midges Classification Using Transfer Learning and Shallow Learning Techniques](https://doi.org/10.1109/C366505.2025.11340012)
+
+---
+
+## Education
+
+- **Master of Science (M.S.) in Artificial Intelligence** - Universidad San Francisco de Quito
+- **Master of Science (M.S.) in Information Systems (Data Science)** - Pontificia Universidad Católica del Ecuador
+- **Postgraduate Certificate in Data Science** - Pontificia Universidad Católica del Ecuador & Banco Pichincha
+- **B.S. in Business Administration** - Pontificia Universidad Católica del Ecuador
+
+---
+
+## GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ustedcan)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ustedcan)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ustedcan)](https://github.com/Ustedcan)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ustedcan)](https://git.io/streak-stats)
