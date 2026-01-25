@@ -1,47 +1,54 @@
-# Carlos A. Lincango | Data Scientist & Machine Learning Engineer
+# Carlos A. Lincango | Data Scientist & ML Specialist
+**Building high-stakes AI solutions at the intersection of Deep Learning Research, Graph Analysis, and Risk & Anomaly Management.**
 
-I am a Data Scientist and Machine Learning Engineer focused on developing impactful solutions through AI. With expertise in fraud detection, computer vision, and deep learning, I specialize in driving results through rigorous statistical analysis and innovative architectures.
+---
 
-## Skills
+## 🚀 Professional Brief
+I specialize in architecting Machine Learning systems that deliver measurable business value and academic rigor. My expertise spans from reducing credit card fraud by **85.71%** in the financial sector through Knowledge Graphs and Anomaly Detection, to publishing peer-reviewed research on Computer Vision.
 
-### Machine Learning & Deep Learning
-* Transfer Learning and Convolutional Architectures (e.g., ResNet-18)
-* Vision Transformers (ViT)
-* Anomaly Detection and Financial Fraud Systems
-* Model Optimization and Deployment
+I hold dual Master's degrees in **Artificial Intelligence** and **Data Science**, focusing on developing robust, interpretable models that map complex relational data into actionable insights.
 
-### Data Science & Statistics
-* Statistical Analysis and Hypothesis Testing (Mann-Whitney U)
-* Stratified Cross-Validation and Evaluation Metrics
-* CRISP-DM Methodology
+---
 
-### Engineering & Software
-* Python (PyTorch, Scikit-learn, Pandas, NumPy)
-* R and SQL
-* Git, Docker, and Linux Environments
-* Computer Vision Pipelines
+## 🛠 Technical Ecosystem
 
-## Analysis of GitHub Activity
-* Project Contributions: Developed multiple public repositories focusing on image classification and species identification.
-* Coding Standards: Emphasis on production-ready code, modularity, and technical documentation.
-* Research Integration: Implementation of state-of-the-art models for entomological and radiological applications.
+* **Deep Learning & CV:** PyTorch, ResNet-18, Vision Transformers (ViT), Transfer Learning, CNNs.
+* **Graph & Relational Analysis:** NetworkX, Knowledge Graph Construction, Centrality Metrics, Community Detection (Fraud Rings).
+* **Data Science & Stats:** Statistical Modeling, Non-parametric Hypothesis Testing, Stratified Cross-Validation, Latent Space Representation.
+* **Engineering & MLOps:** Python (Strict Typing), SQL, R, Docker, Git, HPC Workflows, Interactive HTML Visualization.
 
-## Featured Projects
+---
 
-### Vision Transformers for Culicoides Classification
-Implementation of ViT architectures for the automated classification of cryptic biting midge species. This project integrates attention mechanisms to improve accuracy over traditional CNNs.
-[Repository Link](https://github.com/Ustedcan/Vision-transformers-for-Culicoides-clasification)
+## 📄 Featured Research & Publications
 
-### Hybrid Machine Learning Framework for Image Classification
-A robust framework combining shallow learning techniques with deep feature extraction for specialized image datasets.
+### [1] Automatic Culicoides Biting Midges Classification Using Transfer Learning and Shallow Learning Techniques
+*Presented at the 2025 IEEE Colombian Caribbean Conference (C3)*
+Developed a hybrid framework integrating ResNet-18 feature extraction with tree-based ensembles, achieving high-precision classification in low-data regimes.
+**DOI:** [10.1109/C366505.2025.11340012](https://doi.org/10.1109/C366505.2025.11340012)
 
-## GitHub Statistics
+---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ustedcan)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ustedcan)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ustedcan)](https://git.io/streak-stats)
+## 📈 High-Impact Metrics
 
-## Contact Information
-* Email: clincango_425@hotmail.com
-* GitHub: [github.com/Ustedcan](https://github.com/Ustedcan)
-* LinkedIn: [linkedin.com/in/calincango](https://www.linkedin.com/in/calincango)
+* **Risk & Anomaly Management:** Engineered monitoring controls and graph-based heuristics that achieved a **98.32% compliance rate** in critical KPIs.
+* **Relational Intelligence:** Implemented IP Fraud Monitoring pipelines using **NetworkX** to build Knowledge Graphs. Mapped complex relations between ASO, ASN, IP, and Geography, identifying high-risk clusters via interactive HTML visualizations.
+* **Infrastructure:** Standardized research environments using **Docker** for parity between local development and High-Performance Computing (HPC) clusters.
+
+---
+
+## 🌟 Top Repositories
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **IP Fraud Monitoring Graph** | Relational analysis of IP/ASN/ASO/Geography to detect fraud clusters. | Python, NetworkX, PyVis |
+| **ViT for Classification** | Implementation of Vision Transformers for morphological biological imagery. | PyTorch, ViT |
+| **Hybrid ML Framework** | Latent space feature extraction combined with margin-based classifiers. | Scikit-Learn, PyTorch |
+
+---
+
+## 📫 Connect
+
+* **LinkedIn:** [linkedin.com/in/calincango](https://linkedin.com/in/calincango)
+* **GitHub:** [github.com/Ustedcan](https://github.com/Ustedcan)
+* **Email:** clincango_425@hotmail.com
+* **Location:** Quito, Ecuador
