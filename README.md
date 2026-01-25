@@ -50,5 +50,6 @@ Developed a hybrid framework integrating ResNet-18 feature extraction with tree-
 
 * **LinkedIn:** [linkedin.com/in/calincango](https://linkedin.com/in/calincango)
 * **GitHub:** [github.com/Ustedcan](https://github.com/Ustedcan)
+* **ORCID:** [0009-0007-3929-9854](https://orcid.org/0009-0007-3929-9854)
 * **Email:** clincango_425@hotmail.com
 * **Location:** Quito, Ecuador
