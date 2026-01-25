@@ -1,76 +1,47 @@
-# Carlos Andrés Lincango
+# Carlos A. Lincango | Data Scientist & Machine Learning Engineer
 
-## Data Scientist | Machine Learning Specialist
-
----
-
-📧 clincango_425@hotmail.com | 📱 +593 9929 00353 | 👨‍💻 [GitHub](https://github.com/Ustedcan) | 👔 [LinkedIn](https://linkedin.com/in/calincango) | 🆔 [ORCID](https://orcid.org/0009-0007-3929-9854)
-
----
-
-## Professional Profile
-
-Data Scientist specializing in Machine Learning and fraud detection with proven results: 85.71% reduction in credit card fraud and 98.32% compliance in critical KPIs within the financial sector. Expert in Computer Vision and Deep Learning with an IEEE publication on automated classification using Transfer Learning. Proficient in Python, R, SQL, and frameworks such as PyTorch and Scikit-learn for the development and deployment of predictive models. Holder of Master’s degrees in Artificial Intelligence and Data Science.
-
----
+I am a Data Scientist and Machine Learning Engineer focused on developing impactful solutions through AI. With expertise in fraud detection, computer vision, and deep learning, I specialize in driving results through rigorous statistical analysis and innovative architectures.
 
 ## Skills
 
-### Machine Learning & DL
-- Transfer Learning
-- ResNet-18
-- Convolutional Architectures
-- Vision Transformers (ViT)
-- Anomaly Detection
+### Machine Learning & Deep Learning
+* Transfer Learning and Convolutional Architectures (e.g., ResNet-18)
+* Vision Transformers (ViT)
+* Anomaly Detection and Financial Fraud Systems
+* Model Optimization and Deployment
 
-### Data Science & Stats
-- Statistical Analysis
-- Hypothesis Testing (Mann-Whitney U)
-- Stratified Cross-Validation
+### Data Science & Statistics
+* Statistical Analysis and Hypothesis Testing (Mann-Whitney U)
+* Stratified Cross-Validation and Evaluation Metrics
+* CRISP-DM Methodology
 
 ### Engineering & Software
-- Python
-- PyTorch
-- Scikit-learn
-- R
-- SQL
-- Git
-- Docker
-- Computer Vision Pipelines
+* Python (PyTorch, Scikit-learn, Pandas, NumPy)
+* R and SQL
+* Git, Docker, and Linux Environments
+* Computer Vision Pipelines
 
----
+## Analysis of GitHub Activity
+* Project Contributions: Developed multiple public repositories focusing on image classification and species identification.
+* Coding Standards: Emphasis on production-ready code, modularity, and technical documentation.
+* Research Integration: Implementation of state-of-the-art models for entomological and radiological applications.
 
-## Professional Experience
+## Featured Projects
 
-### INTERDIN S.A. - Fraud Analyst
-- Reduced card fraud by 85.71% through statistical analysis and the implementation of new monitoring controls and rules.
-- Achieved 98.32% compliance in fraud detection and monitoring indicators.
-  
-### UNIVERSIDAD SAN FRANCISCO DE QUITO (USFQ) - Machine Learning / Computer Vision Researcher
-- First-Author IEEE Publication on automated classification using Transfer Learning and Shallow Learning techniques.
-- Led the development of a high-precision system for image recognition.
-- Designed and deployed advanced preprocessing pipelines for computer vision tasks.
+### Vision Transformers for Culicoides Classification
+Implementation of ViT architectures for the automated classification of cryptic biting midge species. This project integrates attention mechanisms to improve accuracy over traditional CNNs.
+[Repository Link](https://github.com/Ustedcan/Vision-transformers-for-Culicoides-clasification)
 
----
+### Hybrid Machine Learning Framework for Image Classification
+A robust framework combining shallow learning techniques with deep feature extraction for specialized image datasets.
 
-## Publications
-
-- [Automatic Culicoides Biting Midges Classification Using Transfer Learning and Shallow Learning Techniques](https://doi.org/10.1109/C366505.2025.11340012)
-
----
-
-## Education
-
-- **Master of Science (M.S.) in Artificial Intelligence** - Universidad San Francisco de Quito
-- **Master of Science (M.S.) in Information Systems (Data Science)** - Pontificia Universidad Católica del Ecuador
-- **Postgraduate Certificate in Data Science** - Pontificia Universidad Católica del Ecuador & Banco Pichincha
-- **B.S. in Business Administration** - Pontificia Universidad Católica del Ecuador
-
----
-
-## GitHub Stats
+## GitHub Statistics
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ustedcan)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ustedcan)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ustedcan)](https://github.com/Ustedcan)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ustedcan)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ustedcan)](https://git.io/streak-stats)
+
+## Contact Information
+* Email: clincango_425@hotmail.com
+* GitHub: [github.com/Ustedcan](https://github.com/Ustedcan)
+* LinkedIn: [linkedin.com/in/calincango](https://www.linkedin.com/in/calincango)
