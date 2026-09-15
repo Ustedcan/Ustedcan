@@ -1,4 +1,4 @@
-# Carlos A. Lincango | Data Scientist & ML Specialist
+# Carlos Lincango | Data Scientist & ML Specialist
 **Building high-stakes AI solutions at the intersection of Deep Learning Research, Graph Analysis, and Risk & Anomaly Management.**
 
 ---
